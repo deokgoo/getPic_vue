@@ -11,10 +11,10 @@
 # Preview
 
 > 
-![preview1](./readmeImg/1.png =200x400)
-![preview2](./readmeImg/2.png =200x400)
-![preview3](./readmeImg/3.png =200x400)
-![preview4](./readmeImg/4.png =200x400)
+![preview1](./readmeImg/1.png)
+![preview2](./readmeImg/2.png)
+![preview3](./readmeImg/3.png)
+![preview4](./readmeImg/4.png)
 
 ## Build Setup
 
