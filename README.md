@@ -8,6 +8,14 @@
 > VueJs 기반으로
   Vuex, Vue-router, Vue-modal, Axios, Azure-Vison-API, Firebase 등을 활용
 
+# Preview
+
+> 
+![preview1](./readmeImg/1.png)
+![preview2](./readmeImg/2.png)
+![preview3](./readmeImg/3.png)
+![preview4](./readmeImg/4.png)
+
 ## Build Setup
 
 ``` bash
